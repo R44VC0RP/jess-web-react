@@ -46,6 +46,12 @@ const Home = (props) => {
         </span>
       </div>
       <SchoolWorkExperiance></SchoolWorkExperiance>
+      <SchoolWorkExperiance
+        bodyTitle="School"
+        bodyText="I am a student at the University of Southern California. I am majoring in Graphic Design. I am also a member of the Society of Graphic Designers of America."
+      >
+
+      </SchoolWorkExperiance>
     </div>
   )
 }
